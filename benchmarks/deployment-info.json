@@ -1,0 +1,39 @@
+{
+  "network": {
+    "name": "unknown",
+    "chainId": "20250616"
+  },
+  "deployer": "0x20f7F90c243c556460388cc227C285952CA3Ea9d",
+  "forwarder": "0x33f90fa7968aC64AaBFdcd3ff5e6E6bf482E72eb",
+  "startTs": "1748822400",
+  "contracts": {
+    "stableCoin": "0x00103e6fE3835e0206274589474d6F85C98271c2",
+    "badgeSBT": "0x1fa960aF746d2F6ADf56274Ce53572Be9e9B602b",
+    "badgeSbtResolver": "0xc10FfD473021e26C3D8d08Ba054A33f74B23211B",
+    "tokenVesting": "0x7e0943E935897D6F5eFa0137EEbE69A60D152685",
+    "vestingToken": "0x21BFad3C2a52e831b6ffbeB5A8A851D0c67F3D9e",
+    "recipient": "0x52259967Cc8e687B69161c3a2B06822b9Df78a6D"
+  },
+  "schedule": {
+    "ends": [
+      "1780271999",
+      "1811807999",
+      "1843430399",
+      "1874966399"
+    ],
+    "buyerTotals": [
+      "170000000000000000000000000",
+      "87500000000000000000000000",
+      "52500000000000000000000000",
+      "40000000000000000000000000"
+    ],
+    "refTotals": [
+      "15000000000000000000000000",
+      "15000000000000000000000000",
+      "0",
+      "0"
+    ]
+  },
+  "time": "2025-09-25T04:08:35.628Z",
+  "blockNumber": 3410255
+}

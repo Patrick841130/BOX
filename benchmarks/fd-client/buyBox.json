@@ -1,0 +1,7 @@
+{
+    "amount": 10,
+    "ref": "SPLALABS",
+    "gas_call": "8500000",
+    "gas_execute": "10000000",
+    "deadline": 3600
+}
